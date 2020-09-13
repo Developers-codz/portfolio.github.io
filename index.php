@@ -15,6 +15,7 @@
 
  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+ <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
  <link rel="stylesheet" href="cssFiles/index.css">
 </head>
 <body >
@@ -35,7 +36,7 @@
 
         <div class="container">
             <h1 class="display-4 text-center profile my-3">Profile</h1>
-            <hr class="w-25 mx-auto" style="border-top:1px solid black"/>
+            <hr class="w-25 mx-auto" style="border-top:3px solid black"/>
             <div class="row">
                 <div class="col-sm-4">
         <h3 class="display-5 skills my-4 ">Skills </h3>
@@ -68,7 +69,7 @@
     </div>
     <div class="container">
         <h2 class="heading text-center display-4">Projects</h2>
-        <hr class="w-25 mx-auto" style="border-top:1px solid black"/>
+        <hr class="w-25 mx-auto" style="border-top:3px solid black"/>
         <div class="row justify-content-center">
             <div class="col-sm-3 my-3 py-4 mx-4 text-center">
                 <h3 class="project">Number Convertor</h3>
@@ -99,6 +100,16 @@
             </div>
         </div>
     </div>
+    <!-- contact Section start -->
+        <div class="container my-2">
+        <h2 class="heading text-center display-4">Contact</h2>
+        <hr class="w-25 mx-auto" style="border-top:3px solid black"/>
+        <div class="text-center">
+            <span class="span">Connect through linkedin ---</span>
+            <a href="https://www.linkedin.com/in/kajal-kumari-52bab41aa/" class ="fa fa-linkedin text-decoration-none"></a>
+        </div>
+        </div>
+    <!-- contact Section start -->
     <!-- footer starts-->
             <div class="footer bg-dark text-light mt-5 " id="foot">
               <!-- Copyright -->
